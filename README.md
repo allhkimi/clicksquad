@@ -2,7 +2,7 @@
 <p align="center"><em>Everything starts with a click.</em></p>
 
 ---
-<img align="center" width="30%" src = "pics/picgroup.jpg" ><br>
+<img align="center" width="50%" src = "pics/picgroup.jpg" ><br>
 We are <strong>ClickSquad</strong> — a group of passionate Computing students from Universiti Teknologi Malaysia (UTM JB), working together on an exciting Human-Computer Interaction (HCI) project.
 
 Our group name represents more than just a cool tagline — it’s the core of what we do. Every digital experience begins with a click, and behind that click lies careful design, thoughtful interaction, and user-centered thinking. That’s exactly what we aim to explore, evaluate, and improve through our work.

@@ -86,20 +86,30 @@ PulsePath will also introduce an interactive learning hub featuring short animat
 
 ## Targeted Users
 
-Our proposed application, PulsePath, is designed for the following target user groups, but not limited to:
-University Students
-Students today often experience high levels of stress due to academic pressures, social challenges, and time management difficulties. This demanding and high-pressure environment can have negative impacts on both their physical or mental wellness.
-PulsePath provides a comprehensive platform that includes features like mental health support, fitness tracking, and health education—with a simple and minimalist interface display, to cope with the packed schedules and hectic and dynamic lifestyles of students, aiding them to maintain their health while also improving their academic performance.
+Our proposed application, **PulsePath**, is designed for the following target user groups, but not limited to:
 
+---
 
-Young Working Professionals
-Young adults entering the workforce often deal with new mental and physical health challenges, such as long sedentary hours, work-related stress, and struggle in maintaining a balanced lifestyle.
-With tight schedules and pressures causing many to put aside their own health, PulsePath app offers accessible, quick exercises, automatic fitness tracking, and stress management resources, all seamlessly integrated into daily routines to support young professionals maintain a healthy and balanced lifestyle.
+### 🎓 University Students
 
+Students today often experience high levels of stress due to academic pressures, social challenges, and time management difficulties. This demanding and high-pressure environment can have negative impacts on both their physical or mental wellness.  
+**PulsePath** provides a comprehensive platform that includes features like mental health support, fitness tracking, and health education—with a simple and minimalist interface display, to cope with the packed schedules and hectic and dynamic lifestyles of students, aiding them to maintain their health while also improving their academic performance.
 
-Individuals with Anxiety or Stress Disorders
-Conventional mental health platforms can sometimes be too complicated, difficult, or even triggering for people with anxiety, mental fatigue, or stress disorders. By delivering a simple and relaxing interface, hopefully, our app addresses these needs and reduces emotional exhaustion.
-Progressive disclosure—presenting information gradually—is used to ensure users are not overwhelmed. The aim is to treat health management as a journey, rather than a list of tasks to be done, using friendly prompts, soothing visuals, and optional activities instead of mandatory steps.
+---
+
+### 💼 Young Working Professionals
+
+Young adults entering the workforce often deal with new mental and physical health challenges, such as long sedentary hours, work-related stress, and struggle in maintaining a balanced lifestyle.  
+With tight schedules and pressures causing many to put aside their own health, the **PulsePath** app offers accessible, quick exercises, automatic fitness tracking, and stress management resources, all seamlessly integrated into daily routines to support young professionals maintain a healthy and balanced lifestyle.
+
+---
+
+### 🧠 Individuals with Anxiety or Stress Disorders
+
+Conventional mental health platforms can sometimes be too complicated, difficult, or even triggering for people with anxiety, mental fatigue, or stress disorders.  
+By delivering a simple and relaxing interface, hopefully, our app addresses these needs and reduces emotional exhaustion.  
+**Progressive disclosure**—presenting information gradually—is used to ensure users are not overwhelmed. The aim is to treat health management as a journey, rather than a list of tasks to be done, using friendly prompts, soothing visuals, and optional activities instead of mandatory steps.
+
 
 
 

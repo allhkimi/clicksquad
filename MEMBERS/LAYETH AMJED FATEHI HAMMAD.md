@@ -4,7 +4,7 @@
 
 Hi there! I'm Layeth — a passionate developer who loves building creative and impactful digital solutions.  
 
-- 💼 [Visit My GitHub Profile](https://github.com/allhkimi)    
+- 💼 [Visit My GitHub Profile](https://github.com/laythAmjad)    
 
 > _“Code is my canvas. Innovation is my art.”_
 

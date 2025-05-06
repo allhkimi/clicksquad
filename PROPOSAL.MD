@@ -48,6 +48,10 @@ To solve these problems, we introduce **PulsePath**, a web-based application ded
 
 PulsePath is designed as a web-based health and wellness application that delivers a simple, engaging, and supportive environment for users to improve their mental and physical well-being. PulsePath draws inspiration from successful products such as Headspace for meditation simplicity, Apple's Activity Rings for motivational visualization, and Duolingo for engaging, gamified learning. Research from the field of Cognitive Load Theory supports the idea that minimizing the amount of information presented at once reduces user frustration (Sweller, 1998).
 
+<img align="center" width="50%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/pic5.jpg">
+
+**Figure 5: Duolingo Gamification Strategy**
+
 The app will feature a calm, minimalistic interface in order to create a soothing user experience. The navigation system will be linear and straightforward, reducing the number of actions required to access key features. To solve the problem of overwhelming platforms,PulsePath will use progressive disclosure, displaying only essential options first and allowing users to dive deeper if they wish, preventing information overload.
 
 As for the fitness tracking, PulsePath will minimize manual inputs by integrating wearable device support. For instance, Apple HealthKit, Google Fit and automatic activity detection to capture steps, exercise routines, sleep patterns, and hydration levels. By integrating these APIs, PulsePath can automatically gather real-time health metrics without requiring users to log their activities manually, significantly reducing user effort and friction. Additionally, visual feedback will be provided as well through simple, colorful progress rings and achievement badges, using clear, celebratory feedback to maintain user motivation without overwhelming them with data.

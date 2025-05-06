@@ -38,4 +38,3 @@ To solve these problems, we introduce **PulsePath**, a web-based application ded
 
 ---
 
-Let me know if you want me to package the full version in a downloadable `.md` file! ​:contentReference[oaicite:0]{index=0}​

@@ -5,6 +5,6 @@
 </p>
 
 🎯 Turning code into creativity & bringing ideas to life!  
-🔗 [Explore my GitHub profile!](https://github.com/allhkimi)    
+🔗 [Explore my GitHub profile!](https://github.com/muzzz20)    
 
 💬 Let’s build something awesome together!

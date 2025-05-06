@@ -44,14 +44,30 @@ As for the fitness tracking, PulsePath will minimize manual inputs by integratin
 
 PulsePath will also introduce an interactive learning hub featuring short animated videos, quick quizzes, and gamified challenges just like the ones we could find in shopping platforms such as Shopee. Learning about subjects like diet, mental toughness, and sleep hygiene will be made simpler and more enjoyable for the student users by providing them with responsive, visually appealing, and lifestyle-relevant information.
 
-.Soothing Visual Design
-1-A relaxing and minimalist design in soft pastel tones i.e. light blues and greens that are known to create calm and lower stress.
-2-High color-contrast between text and background text-background color-concentration high (e.g., dark on light), to increase legibility for users suffering from vision fatigue or vision abnormalities.
-3-Dark mode to empower users to control their visual environment and minimize eye strain, particularly in low-light conditions.
-.Font & Typography Choices
-1-One carry-over I do understand is the use of rounded, clean looking sans-serif type (like Poppins, Roboto, or Lato), which reads well and has a friendly feel to it.
-2-Dynamic fonts allow text to scale with accessibility sizes, so users can adjust it to their comfort.
-3-Large legible section headings and enough contrast / whitespace to avoid users being overwhelmed.
+### 🎨 Soothing Visual Design
+
+1. **Relaxing, Minimalist Theme**  
+   The UI will use **soft pastel tones**, such as light blues and greens, which are known to promote calmness and reduce stress.
+
+2. **High Color Contrast**  
+   Text and background colors will follow **high contrast principles** (e.g., dark text on light backgrounds) to support users with **vision fatigue** or **visual impairments** and improve overall legibility.
+
+3. **Dark Mode Support**  
+   Users can switch to **dark mode**, giving them control over their visual environment—especially useful in **low-light conditions** to reduce **eye strain** and improve comfort.
+
+---
+
+### ✍️ Font & Typography Choices
+
+1. **Clean, Friendly Sans-Serif Fonts**  
+   The application will use **rounded, modern sans-serif fonts** like _Poppins_, _Roboto_, or _Lato_ for a friendly and approachable feel while ensuring readability.
+
+2. **Accessibility-Ready Dynamic Fonts**  
+   Fonts will be **responsive and scalable**, allowing users to adjust text size according to their accessibility needs or personal preference.
+
+3. **Readable Layout and Whitespace**  
+   Large, **clearly defined section headings**, along with **adequate spacing** and **visual contrast**, will be used to reduce cognitive load and prevent users from feeling overwhelmed.
+
 
 
 ## Targeted Users

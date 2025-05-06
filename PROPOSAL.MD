@@ -110,6 +110,13 @@ Conventional mental health platforms can sometimes be too complicated, difficult
 By delivering a simple and relaxing interface, hopefully, our app addresses these needs and reduces emotional exhaustion.  
 **Progressive disclosure**—presenting information gradually—is used to ensure users are not overwhelmed. The aim is to treat health management as a journey, rather than a list of tasks to be done, using friendly prompts, soothing visuals, and optional activities instead of mandatory steps.
 
+## 📚 References
+
+- Sweller, J. (1988). *Cognitive Load During Problem Solving: Effects on Learning*. Cognitive Science, 12(2), 257–285. [https://doi.org/10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)
+
+- Norman, D. A. (2013). *The Design of Everyday Things* (Revised and Expanded Edition). MIT Press.
+
+- Nielsen, J. (1994). *10 Usability Heuristics for User Interface Design*. Nielsen Norman Group. Retrieved from [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 
 

@@ -42,6 +42,10 @@ As stated in the problem overview above, the current mental health platforms suc
 
 To solve these problems, we introduce **PulsePath**, a web-based application dedicated to simplifying and enhancing user experience for good health and well-being. The web application is meant to track and improve a user's physical and mental health by visualizing their progress and allowing them to learn ways to maintain a healthy lifestyle. The app will provide smart tracking and gamified mental health support, tailored to reduce anxiety, stress and cognitive overload.
 
+<img align="center" width="50%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/pic4.jpg">
+
+**Figure 4.1 & 4.2: Headspace Interface & Apple's Activity Rings**
+
 PulsePath is designed as a web-based health and wellness application that delivers a simple, engaging, and supportive environment for users to improve their mental and physical well-being. PulsePath draws inspiration from successful products such as Headspace for meditation simplicity, Apple's Activity Rings for motivational visualization, and Duolingo for engaging, gamified learning. Research from the field of Cognitive Load Theory supports the idea that minimizing the amount of information presented at once reduces user frustration (Sweller, 1998).
 
 The app will feature a calm, minimalistic interface in order to create a soothing user experience. The navigation system will be linear and straightforward, reducing the number of actions required to access key features. To solve the problem of overwhelming platforms,PulsePath will use progressive disclosure, displaying only essential options first and allowing users to dive deeper if they wish, preventing information overload.

@@ -401,7 +401,7 @@ To improve the user experience, the app should consider making some features, es
 - Plan4: Quick start of tracking feature only , do  
   \(1 \rightarrow 2 \rightarrow 4 \rightarrow 4.1 \rightarrow 4.2 \rightarrow 4.3 \rightarrow 6 \rightarrow 6.1\) 
 
-<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t3.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t3.jpg">
  
 
 #### c. Type of User 3

@@ -208,15 +208,15 @@ The application being tested in this project is called Headspace, a widely used 
 
 **Plans:**  
 - Plan 0: First-time user  
-  Do steps: \( 1 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 5 \rightarrow 6 \)  
+  Do steps: \( 1 -> 2 -> 3 -> 4 -> 5 -> 6 \)  
 - Plan 1: Existing user accessing tracking  
-  Do steps: \( 1 \rightarrow 3 \rightarrow 4 \rightarrow 5 \rightarrow 6 \)  
+  Do steps: \( 1 -> 3 -> 4 -> 5 -> 6 \)  
 - Plan 2: Viewing tracked data only  
-  Do steps: \( 1 \rightarrow 6 \)  
+  Do steps: \( 1 ->6 \)  
 - Plan 3: Connecting with external health apps  
-  Do steps: \( 1 \rightarrow 3 \rightarrow 5 \)  
+  Do steps: \( 1 -> 3 -> 5 \)  
 - Plan 4: Enabling detailed tracking  
-  Do steps: \( 1 \rightarrow 3 \rightarrow 4 \rightarrow 5 \rightarrow 6 \)  
+  Do steps: \( 1 -> 3 -> 4 -> 5 -> 6 \)  
 
 ---
 

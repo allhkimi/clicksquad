@@ -181,6 +181,9 @@ The application being tested in this project is called Headspace, a widely used 
 - Plan 7: do 7.1 - 7.2 - 7.3 if available - 7.4  
 - Plan 7.4: do 7.4.1 - 7.4.2 - 7.4.3 - 7.4.4  
 
+<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+
+
 #### c. Type of User 3
 
 [Link to Video](https://drive.google.com/file/d/1CGVZMemqf8RBXKepBp7X3lwMRbS1QanL/view?usp=drive_link)
@@ -233,7 +236,7 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 
 **HTA for User 1 doing Task 2 in diagram presentation:**  
 
-*(Diagram not included in text format. Refer to the video link for details.)*  
+<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u1t2.jpg">
 
 #### b. Type of User 2
 
@@ -396,7 +399,10 @@ To improve the user experience, the app should consider making some features, es
 - Plan3: to review tracking without details, do  
   \(1 \rightarrow 2 \rightarrow 5 \rightarrow 5.1 \rightarrow 6 \rightarrow 6.1\)  
 - Plan4: Quick start of tracking feature only , do  
-  \(1 \rightarrow 2 \rightarrow 4 \rightarrow 4.1 \rightarrow 4.2 \rightarrow 4.3 \rightarrow 6 \rightarrow 6.1\)  
+  \(1 \rightarrow 2 \rightarrow 4 \rightarrow 4.1 \rightarrow 4.2 \rightarrow 4.3 \rightarrow 6 \rightarrow 6.1\) 
+
+<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t3.jpg">
+ 
 
 #### c. Type of User 3
 
@@ -438,6 +444,9 @@ To improve the user experience, the app should consider making some features, es
   Do steps: \( 1 \rightarrow 3 \rightarrow 5 \rightarrow 6 \rightarrow 7 \rightarrow 8 \)  
 - Plan 4: Quickly evaluating available resources  
   Do steps: \( 1 \rightarrow 2 \rightarrow 4 \rightarrow 5 \rightarrow 6 \rightarrow 7 \)  
+
+<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u3t3.jpg">
+
 
 ---
 

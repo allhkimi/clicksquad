@@ -433,15 +433,15 @@ To improve the user experience, the app should consider making some features, es
 
 **Plans:**  
 - Plan 0: First-time user exploring mental health resources  
-  Do steps: \( 1 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 5 \rightarrow 6 \rightarrow 7 \rightarrow 8 \rightarrow 9 \)  
+  Do steps: \( 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 \)  
 - Plan 1: Returning user looking for specific mental health advice  
-  Do steps: \( 1 \rightarrow 3 \rightarrow 5 \rightarrow 6 \rightarrow 7 \rightarrow 8 \)  
+  Do steps: \( 1 -> 3 -> 5 -> 6 -> 7 -> 8 \)  
 - Plan 2: Browsing featured content only  
-  Do steps: \( 1 \rightarrow 2 \rightarrow 4 \rightarrow 5 \rightarrow 6 \rightarrow 7 \)  
+  Do steps: \( 1 -> 2 -> 4 ->5 -> 6 -> 7 \)  
 - Plan 3: Searching for free/unlocked videos  
-  Do steps: \( 1 \rightarrow 3 \rightarrow 5 \rightarrow 6 \rightarrow 7 \rightarrow 8 \)  
+  Do steps: \( 1 -> 3 -> 5-> 6 -> 7 -> 8 \)  
 - Plan 4: Quickly evaluating available resources  
-  Do steps: \( 1 \rightarrow 2 \rightarrow 4 \rightarrow 5 \rightarrow 6 \rightarrow 7 \)  
+  Do steps: \( 1 -> 2 -> 4 -> 5 -> 6 -> 7 \)  
 
 <img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u3t3.jpg">
 

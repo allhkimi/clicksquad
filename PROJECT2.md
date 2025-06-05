@@ -27,9 +27,9 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 
 ---
 
-## FORMAT REPORT SUBMISSION:
 
-### Submission: User Analysis
+
+## Submission: User Analysis
 
 1. **Title: Gathering Requirements - User Analysis**
 

@@ -181,7 +181,7 @@ The application being tested in this project is called Headspace, a widely used 
 - Plan 7: do 7.1 - 7.2 - 7.3 if available - 7.4  
 - Plan 7.4: do 7.4.1 - 7.4.2 - 7.4.3 - 7.4.4  
 
-<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 
 #### c. Type of User 3
@@ -236,7 +236,7 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 
 **HTA for User 1 doing Task 2 in diagram presentation:**  
 
-<img align="center" width="30%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u1t2.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u1t2.jpg">
 
 #### b. Type of User 2
 

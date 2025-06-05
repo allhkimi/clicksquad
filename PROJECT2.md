@@ -104,13 +104,13 @@ The application being tested in this project is called Headspace, a widely used 
 **HTA for User 1 doing Task 1 in textual presentation:**  
 
 0. Track daily wellness automatically  
-   1. Open Google Fit app  
-   2. Sign Up/Sign In  
-   3. Allow permissions to collect phone's data  
-   4. View steps and sleep info on Home tab  
-   5. Go to Journal submenu  
+1. Open Google Fit app  
+2. Sign Up/Sign In  
+3. Allow permissions to collect phone's data  
+4. View steps and sleep info on Home tab  
+5. Go to Journal submenu  
       5.1 View activity records  
-   6. Go to Browse submenu  
+6. Go to Browse submenu  
       6.1 Choose a health data (e.g. Vitals)  
       6.2 Enter data manually  
       6.3 Connect to other apps  
@@ -131,22 +131,22 @@ The application being tested in this project is called Headspace, a widely used 
 **HTA for User 2 doing Task 1 in textual presentation:**  
 
 0. Use automatic wellness tracking in Headspace  
-   1. Attempt to find tracking feature  
+1. Attempt to find tracking feature  
       1.1. Scroll up and down on the main menu  
       1.2. Accidentally click "Free Trial"  
       1.3. Close the free trial window  
-   2. Access profile and personalized progress  
+2. Access profile and personalized progress  
       2.1. Click profile  
       2.2. Scroll down to "Personalized Progress"  
       2.3. Click "Check-in"  
-   3. Complete check-in survey  
+3. Complete check-in survey  
       3.1. Fill and submit survey  
       3.2. View stress bar output for May  
-   4. Explore activity data history  
+4. Explore activity data history  
       4.1. Swipe left/right for other months (empty bars)  
       4.2. Click "View Full History"  
       4.3. Return to profile view  
-   5. Attempt to check anxiety levels  
+5. Attempt to check anxiety levels  
       5.1. Click "Anxiety" button beside "Stress"  
       5.2. Return to "Stress" page to double-check  
       5.3. Click "Anxiety" again  
@@ -155,11 +155,11 @@ The application being tested in this project is called Headspace, a widely used 
       5.6. Repeatedly click "Stress" thinking it's "Anxiety"  
       5.7. Realize mistake and click "Anxiety" again  
       5.8. Successfully view anxiety bar  
-   6. Attempt to change profile and settings  
+6. Attempt to change profile and settings  
       6.1. Scroll up to see profile  
       6.2. Click profile picture (no response)  
       6.3. Click "Settings"  
-   7. Connect with Apple Health  
+7. Connect with Apple Health  
       7.1. Scroll down in settings  
       7.2. Click "Apple Health"  
       7.3. Toggle "Mindful Minutes" on  
@@ -188,20 +188,20 @@ The application being tested in this project is called Headspace, a widely used 
 **HTA for User 3 doing Task 1 in textual presentation:**  
 
 0. Enable automatic wellness tracking in the Headspace app  
-   1. Open the Headspace app  
-   2. Sign Up / Sign In  
+1. Open the Headspace app  
+2. Sign Up / Sign In  
       2.1. Tap on "Sign In" or create a new account  
       2.2. Enter email and password or use social media login  
-   3. Access wellness tracking features  
+3. Access wellness tracking features  
       3.1. Tap on the profile icon  
       3.2. Scroll through settings to find wellness tracking options  
-   4. Enable automatic tracking  
+4. Enable automatic tracking  
       4.1. Locate the toggle for automatic tracking  
       4.2. Tap the toggle to enable tracking  
-   5. Connect with external apps (e.g., Google Fit, Apple Health)  
+5. Connect with external apps (e.g., Google Fit, Apple Health)  
       5.1. Tap on "Connect with Google Fit" or "Apple Health"  
       5.2. Review and accept permission request  
-   6. Review tracked data  
+6. Review tracked data  
       6.1. Navigate to the dashboard or tracking section  
       6.2. View hydration, sleep, and activity data  
 
@@ -242,11 +242,11 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 **HTA for User 2 doing Task 2 in textual presentation:**  
 
 0. Seek mental health support using the Headspace app  
-   1. Launch and navigate to meditation features  
+1. Launch and navigate to meditation features  
       1.1 Open Headspace app  
       1.2 View Home page  
       1.3 Click “Meditate” button  
-   2. Explore SOS and meditation support options  
+2. Explore SOS and meditation support options  
       2.1 Scroll through meditate page  
       2.2 Click “SOS” feature  
          2.2.1 Click “Feeling Overwhelmed” option  
@@ -255,19 +255,19 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
          2.3.1 Select different teachers  
          2.3.2 Realize role of teachers is unclear  
       2.4 Return to main menu  
-   3. Re-investigate and explore app further  
+3. Re-investigate and explore app further  
       3.1 Revisit “Meditate” section  
          3.1.1 Click on various sub-features  
          3.1.2 Investigate “Professional” labels  
       3.2 Go back to Home page  
       3.3 Click “Mindfulness at Work”  
       3.4 Find and click “Ask a Therapist – Cure Burnout”  
-   4. Compare SOS teachers vs advisors  
+4. Compare SOS teachers vs advisors  
       4.1 Return to SOS section  
       4.2 Attempt to access teacher content  
       4.3 Click “Start Free Trial”  
       4.4 Cancel trial process  
-   5. Exit application  
+5. Exit application  
       5.1 Decide support was not found  
       5.2 Close app  
 
@@ -291,27 +291,26 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 **HTA for User 3 doing Task 2 in textual presentation:**  
 
 0. Use the Headspace app to track mental health (stress and anxiety levels)  
-   1. Open the Headspace app  
-   2. Access profile and personalized progress  
+1. Open the Headspace app  
+2. Access profile and personalized progress  
       2.1. Tap on the profile icon  
       2.2. Scroll down to "Personalized Progress"  
-   3. Initiate check-in process  
+3. Initiate check-in process  
       3.1. Tap on the "Check-in" button  
-   4. Complete the check-in questionnaire  
+4. Complete the check-in questionnaire  
       4.1. Answer questions about current stress and anxiety  
       4.2. Submit responses  
-   5. View mental health score and feedback  
+5. View mental health score and feedback  
       5.1. Review the displayed score (e.g., “Moderate Anxiety”)  
       5.2. Read the brief explanation provided  
-   6. Explore activity history  
+6. Explore activity history  
       6.1. Tap on “View Full History”  
       6.2. Swipe left/right to view past check-ins  
-   7. Return to main profile or dashboard  
+7. Return to main profile or dashboard  
       7.1. Tap back arrow or navigate to home screen  
-   8. Set up regular check-ins (if available)  
+8. Set up regular check-ins (if available)  
       8.1. Toggle option for weekly/monthly reminders  
-      8.2. Confirm schedule  
-   9. Exit the app or continue exploring  
+      8.2. Confirm schedule  9. Exit the app or continue exploring  
       9.1. Close the app or navigate to other sections  
 
 **Plans:**  
@@ -347,13 +346,13 @@ To improve the user experience, the app should consider making some features, es
 **HTA for User 1 doing Task 3 in textual presentation:**  
 
 0. Learn simple health tips from Health Tips app  
-   1. Open Health Tips app  
-   2. Browse topics on Home tab  
-   3. Use Search tab to search a particular topic  
-   4. Choose Library tab to see saved tips  
-   5. Choose a topic (e.g. Heart Care)  
-   6. Select a subtopic (e.g. Warning Signs)  
-   7. Read the tips  
+1. Open Health Tips app  
+2. Browse topics on Home tab  
+3. Use Search tab to search a particular topic  
+4. Choose Library tab to see saved tips  
+5. Choose a topic (e.g. Heart Care)  
+6. Select a subtopic (e.g. Warning Signs)  
+7. Read the tips  
       7.1 Mark as read  
       7.2 Add to favourite  
       7.3 Share the tip  
@@ -373,18 +372,18 @@ To improve the user experience, the app should consider making some features, es
 **HTA for User 2 doing Task 3 in textual presentation:**  
 
 0. Use automatic wellness tracking in the Headspace app  
-   1. Open the Headspace app  
-   2. Sign Up/Sign In  
-   3. Select the topics of what you want to go with  
+1. Open the Headspace app  
+2. Sign Up/Sign In  
+3. Select the topics of what you want to go with  
       3.1 start with your first exercise  
-   4. Enable automatic wellness tracking  
+4. Enable automatic wellness tracking  
       4.1 Scroll to find your start with Headspace option  
       4.2 Click play to start  
       4.3 Read the pop-up or confirmation message  
-   5. Review what is being tracked  
+5. Review what is being tracked  
       5.1 Check categories like mood, sleep, activity  
       5.2 Tap any category for more details (optional)  
-   6. Return to the main dashboard  
+6. Return to the main dashboard  
       6.1 Press the back arrow or Home button  
 
 **Plans:**  
@@ -406,26 +405,26 @@ To improve the user experience, the app should consider making some features, es
 **HTA for User 3 doing Task 3 in textual presentation:**  
 
 0. Use the Headspace app to explore interactive health education  
-   1. Open the Headspace app  
-   2. Navigate to the "Explore" section  
+1. Open the Headspace app  
+2. Navigate to the "Explore" section  
       2.1 Tap on the "Explore" tab in the bottom navigation bar  
-   3. Search for mental health resources  
+3. Search for mental health resources  
       3.1 Tap on the search bar at the top of the screen  
       3.2 Type keywords related to mental health (e.g., "anxiety," "stress")  
-   4. Browse featured content  
+4. Browse featured content  
       4.1 Scroll through the "Featured" section  
       4.2 Look for categories like "Mental Health Matters" or "Ask a Therapist"  
-   5. Access an unlocked video or resource  
+5. Access an unlocked video or resource  
       5.1 Tap on a free or unlocked video/resource  
       5.2 Play the video or read the content  
-   6. Evaluate the usefulness of the content  
+6. Evaluate the usefulness of the content  
       6.1 Assess whether the content addresses her needs  
       6.2 Decide if it's helpful or too general  
-   7. Return to the main menu or continue exploring  
+7. Return to the main menu or continue exploring  
       7.1 Tap the back arrow or navigate to another section  
-   8. Repeat steps 3–7 until satisfied or frustrated  
+8. Repeat steps 3–7 until satisfied or frustrated  
       8.1 Continue searching for more relevant content  
-   9. Exit the app or save progress  
+9. Exit the app or save progress  
       9.1 Close the app or bookmark useful resources  
 
 **Plans:**  

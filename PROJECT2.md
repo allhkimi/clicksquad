@@ -97,7 +97,7 @@ The application being tested in this project is called Headspace, a widely used 
 
 #### a. Type of User 1
 
-[Link to Video](https://drive.google.com/file/d/1Q8AHLfsMx32lg529DIUL99adHTvCdqR6/view?usp=drive_link)
+[Link to Video](https://drive.google.com/file/d/1Q8AHLfsMx32lg529DIUL99adHTvCdqR6/view?usp=drivesdk)
 
 **HTA for User 1 doing Task 1 in textual presentation:**  
 

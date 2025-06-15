@@ -53,6 +53,7 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 <img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/muzc8.jpg">
 
 ### Voted Design Elements/Layout
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/voted.jpg">
 
 ### Wireframes for Task 1
 <img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">

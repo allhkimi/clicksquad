@@ -38,30 +38,30 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 <img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/stbrd3.jpg">
 
 ### Alternative Design 1 - ANATASYA HUMAIRA
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/tasyac8.jpg">
 
 ### Alternative Design 2 - Layth Amjad Hammad
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/laythc8.jpg">
 
 ### Alternative Design 3 - HARITZ HAYKAL BIN NAZRUL HISHAM
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/haykalc8.jpg">
 
 ### Alternative Design 4 - MUHAMMAD AL-HAKIMI HAIKAL
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/alc8.jpg">
 
 ### Alternative Design 5 - AHMAD MUZHAFFAR PRIHANTONY
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/muzc8.jpg">
 
 ### Voted Design Elements/Layout
 
 ### Wireframes for Task 1
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
 
 ### Wireframes for Task 2
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
 
 ### Wireframes for Task 3
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
 
 ### Justification of the Design
 

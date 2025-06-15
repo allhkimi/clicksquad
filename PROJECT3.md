@@ -27,41 +27,41 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 
 ### Goal 1: Automatic Wellness Tracking
 ### Storyboard:
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/stbrd1.jpg">
 
 ### Goal 2: Mental Health Support
 ### Storyboard:
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/stbrd2.jpg">
 
 ### Goal 3: Interactive Health Education
 ### Storyboard:
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/stbrd3.jpg">
 
 ### Alternative Design 1 - ANATASYA HUMAIRA
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Alternative Design 2 - Layth Amjad Hammad
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Alternative Design 3 - HARITZ HAYKAL BIN NAZRUL HISHAM
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Alternative Design 4 - MUHAMMAD AL-HAKIMI HAIKAL
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Alternative Design 5 - AHMAD MUZHAFFAR PRIHANTONY
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Voted Design Elements/Layout
 
 ### Wireframes for Task 1
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Wireframes for Task 2
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Wireframes for Task 3
-<img align="center" width="70%" src="">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/u2t1.jpg">
 
 ### Justification of the Design
 

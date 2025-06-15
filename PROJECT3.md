@@ -27,30 +27,41 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 
 ### Goal 1: Automatic Wellness Tracking
 ### Storyboard:
+<img align="center" width="70%" src="">
 
 ### Goal 2: Mental Health Support
 ### Storyboard:
+<img align="center" width="70%" src="">
 
 ### Goal 3: Interactive Health Education
 ### Storyboard:
+<img align="center" width="70%" src="">
 
 ### Alternative Design 1 - ANATASYA HUMAIRA
+<img align="center" width="70%" src="">
 
 ### Alternative Design 2 - Layth Amjad Hammad
+<img align="center" width="70%" src="">
 
 ### Alternative Design 3 - HARITZ HAYKAL BIN NAZRUL HISHAM
+<img align="center" width="70%" src="">
 
 ### Alternative Design 4 - MUHAMMAD AL-HAKIMI HAIKAL
+<img align="center" width="70%" src="">
 
 ### Alternative Design 5 - AHMAD MUZHAFFAR PRIHANTONY
+<img align="center" width="70%" src="">
 
 ### Voted Design Elements/Layout
 
 ### Wireframes for Task 1
+<img align="center" width="70%" src="">
 
 ### Wireframes for Task 2
+<img align="center" width="70%" src="">
 
 ### Wireframes for Task 3
+<img align="center" width="70%" src="">
 
 ### Justification of the Design
 

@@ -56,13 +56,15 @@ ASSOC. PROF. TS. DR. MASITAH GHAZALI
 <img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/voted.jpg">
 
 ### Wireframes for Task 1
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/wft1p1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/wft1p2.jpg">
 
 ### Wireframes for Task 2
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/wft2.jpg">
 
 ### Wireframes for Task 3
-<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/wft3p1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/wft3p2.jpg">
 
 ### Justification of the Design
 

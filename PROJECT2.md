@@ -99,6 +99,7 @@ The application being tested in this project is called Headspace, a widely used 
 
 [Link to Video] [https://drive.google.com/file/d/1Q8AHLfsMx32lg529DIUL99adHTvCdqR6/view?usp=drivesdk
 ](https://drive.google.com/file/d/1Q8AHLfsMx32lg5z9DlUL99adHTvCdqR6/view?usp=drive_link)
+
 **HTA for User 1 doing Task 1 in textual presentation:**  
 
 0. Track daily wellness automatically  
@@ -124,7 +125,8 @@ The application being tested in this project is called Headspace, a widely used 
 
 #### b. Type of User 2
 
-[Link to Video](https://drive.google.com/file/d/1TobUfXu6zBv0FXCKo3QHpI4mIDyy7i0S/view)
+[Link to Video][(https://drive.google.com/file/d/1TobUfXu6zBv0FXCKo3QHpI4mIDyy7i0S/view)
+](https://drive.google.com/file/d/1TobUfXu6zBv0FXCKo3QHpl4mIDyy7i0S/view)
 
 **HTA for User 2 doing Task 1 in textual presentation:**  
 
@@ -184,7 +186,8 @@ The application being tested in this project is called Headspace, a widely used 
 
 #### c. Type of User 3
 
-[Link to Video](https://drive.google.com/file/d/1CGVZMemqf8RBXKepBp7X3lwMRbS1QanL/view?usp=drive_link)
+[Link to Video][(https://drive.google.com/file/d/1CGVZMemqf8RBXKepBp7X3lwMRbS1QanL/view?usp=drive_link)](https://drive.google.com/file/d/1CGVZMemqf8RBXKepBp7X3IwMRbS1QanL/view?usp=drive_link)
+
 
 **HTA for User 3 doing Task 1 in textual presentation:**  
 
@@ -230,7 +233,8 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 
 #### a. Type of User 1
 
-[Link to Video](https://drive.google.com/file/d/14kIQvC_ZclWpgVqrbtUtBm8PN69jXctV/view?usp=drive_link)
+[Link to Video][(https://drive.google.com/file/d/14kIQvC_ZclWpgVqrbtUtBm8PN69jXctV/view?usp=drive_link)
+](https://drive.google.com/file/d/14kIQvC_ZcIWpgVqrbtUtBm8PN69jXctV/view?usp=drive_link)
 
 **HTA for User 1 doing Task 2 in diagram presentation:**  
 
@@ -238,7 +242,8 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 
 #### b. Type of User 2
 
-[Link to Video](https://drive.google.com/file/d/1WutxT8QSvTA3NID_U0t4tei0qQeUA31g/view)
+[Link to Video][(https://drive.google.com/file/d/1WutxT8QSvTA3NID_U0t4tei0qQeUA31g/view)
+](https://drive.google.com/file/d/1WutxT8QSvTA3NID_U0t4tei0qQeUA31g/view)
 
 **HTA for User 2 doing Task 2 in textual presentation:**  
 
@@ -287,7 +292,8 @@ The HTA findings for Task 1 revealed key usability differences between Google Fi
 
 #### c. Type of User 3
 
-[Link to Video](https://drive.google.com/file/d/1q-Q_pdGti6oyjkzHsSERYaA8yTeBLxPB/view?usp=drive_link)
+[Link to Video][(https://drive.google.com/file/d/1q-Q_pdGti6oyjkzHsSERYaA8yTeBLxPB/view?usp=drive_link)
+](https://drive.google.com/file/d/1q-Q_pdGti6ovjkzHsSERYaA8yTeBLxPB/view?usp=drive_link)
 
 **HTA for User 3 doing Task 2 in textual presentation:**  
 
@@ -342,7 +348,8 @@ To improve the user experience, the app should consider making some features, es
 
 #### a. Type of User 1
 
-[Link to Video](https://drive.google.com/file/d/1tt8P3Mtqcr5xSSrFC-LIBtkVic47k4tL/view?usp=drive_link)
+[Link to Video][(https://drive.google.com/file/d/1tt8P3Mtqcr5xSSrFC-LIBtkVic47k4tL/view?usp=drive_link)](https://drive.google.com/file/d/1tI8P3Mtqcr5xSSrFC-LIBtkVic47k4tL/view?usp=drive_link)
+
 
 **HTA for User 1 doing Task 3 in textual presentation:**  
 
@@ -368,7 +375,8 @@ To improve the user experience, the app should consider making some features, es
 
 #### b. Type of User 2
 
-[Link to Video](https://drive.google.com/file/d/1hrYTjrhEq_0wkj8C3eJI5ydl2P-U1fQA/view?t=12)
+[Link to Video][(https://drive.google.com/file/d/1hrYTjrhEq_0wkj8C3eJI5ydl2P-U1fQA/view?t=12)](https://drive.google.com/file/d/1hrYTjrhEg_0wkj8C3eJI5yql2P-U1fQA/view?t=12)
+
 
 **HTA for User 2 doing Task 3 in textual presentation:**  
 
@@ -404,7 +412,8 @@ To improve the user experience, the app should consider making some features, es
 
 #### c. Type of User 3
 
-[Link to Video](https://drive.google.com/file/d/13OVK9LHUt4kzQHZaTtlmlon0SbLrCtB2/view?usp=drive_link)
+[Link to Video][(https://drive.google.com/file/d/13OVK9LHUt4kzQHZaTtlmlon0SbLrCtB2/view?usp=drive_link)
+](https://drive.google.com/file/d/13OVK9LHUt4kzQHZaTtImIon0SbLrCtB2/view?usp=drive_link)
 
 **HTA for User 3 doing Task 3 in textual presentation:**  
 

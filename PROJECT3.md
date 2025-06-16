@@ -72,22 +72,29 @@ The design choices are justified by being in line with the three main goals of t
 
 #### Goal 1: Automatic Wellness Tracking
 -Tracking features are included to help users log and monitor their physical and mental wellness.
+
 -The menu is designed to be easy to access from the Home Page to encourage users to stay consistent throughout their wellness journey.
+
 -Daily progress tracking is integrated to facilitate the habits development and personalised wellness tracking.
 
 #### Goal 2: Mental Health Support
 -Features such as Meditate and SOS Support offer quick access to emotional help and calming exercises.
+
 -The SOS menu provides instant assistance in emergencies, focussing on user-centered and safety-oriented design.
 
 #### Goal 3: Interactive Health Education
 -Education menu is used for users to learn more on topics like stress, wellness, and healthy habits.
+
 -The educational features are simplified for simplicity for users and are accessible from the home page for a seamless learning flow.
 
 
 #### Overall Design Justification:
 -Centralized Navigation: The Home Page functions as a central point with easy access to all major features.
+
 -User Flow Consistency: Navigation paths are clean and logically structured to reduce cognitive load.
+
 -Accessibility: Design components consider both usability and the need for quick support for users.
+
 -Engagement and Simplicity: Layouts and task flows are minimalistic and kept simple to ensure users are not overwhelmed.
 
 

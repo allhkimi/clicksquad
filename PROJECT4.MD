@@ -98,6 +98,8 @@ Testing for User 3 was handled by Ahmad Muzhaffar.
 
 ## 5. Observations – prepared by Haritz Haykal, Muhammad Al-Hakimi, Ahmad Muzhaffar
 
+Upon finishing all of the three tasks, participants were given a set of open-ended interview questions. The following is the list of questions and the summarized responses provided by each users:
+
 ### Interview Questions:
 
 **1. What do you think was easy when navigating this app?**
@@ -106,17 +108,27 @@ Testing for User 3 was handled by Ahmad Muzhaffar.
 - User 2: "Everything is basically easy... I can track progress effortlessly."  
 - User 3: "This is so easy to navigate..."
 
+Ease of Use of Navigation and Usability: The app's user-friendly and intuitive navigation was praised by all participants.
+
+
 **2. What was difficult about it?**
 
 - User 1: "Not particularly anything"  
 - User 2: "I don't think so."  
 - User 3: "No, nothing."
 
+Minor Difficulties: Only User 1 reported a small lag issue ("Sometimes it gets lags"), but considered to be manageable. There were no usability issues noted.
+
+
 **3. Why or when would you use the system?**
 
 - User 1: "I would use it always... it tracks everything I need."  
 - User 2: "Perfect for busy people with mental health or routine issues."  
 - User 3: "Fits perfectly for daily tasks."
+
+High Relevance: All users stated they would like to  integrate PulsePath into daily routines.
+Core Use Cases: Tracking (calories, sleep, habits), mental health support (meditation, SOS), and health education (videos, quizzes, etc.) were highlighted by users as their primary motivations.
+
 
 **4. Is there any reason for you to think that you wouldn't use this app?**
 
@@ -130,46 +142,53 @@ Testing for User 3 was handled by Ahmad Muzhaffar.
 - User 2: "Use it during work to check calories burned or contact professionals instantly."  
 - User 3: "Perfect for my needs."
 
+Seamless Integration into Daily Life: All users highlighted connections with their lifestyles
+
+
 **6. Anything you want to do but isn’t in the system?**
 
 - User 1: "Everything I need is there…"  
 - User 2: "Covers everything…"  
 - User 3: "Perfect."
 
+Feature Completeness: All users perceived the prototype to be fully functional.
+
+
 ### Additional Comments:
 
-- **Aesthetic & Visual Appeal**: User 2: "I like the colors… calming."  
-- **Excitement**: User 1: "Wow, you can track a lot…"; User 3: “...it's a good app. Oh, we can set it to the month…”  
-- **User Fit**: Ideal for routine-driven users, busy professionals, and those seeking structured wellness support.
+Aesthetic & Visual Appeal (User 2: "I like the colors… calming.").
+Enthusiasm (User 1: "Wow, you can track a lot…"; User 3: “...it's a good app. Oh, we can set it to the month…” ).
+User Fit: Ideal for routine-driven users (User 1),  busy professionals (User 2), and those seeking structured wellness support (User 3).
+The design prototype of PulsePath validates core user needs with excellent usability and provides a compelling, feature-rich wellness assistant. The prototype's ability to satisfy the user's core expectations is proven by the lack of requested additional functionalities.
 
 ---
 
-## 6. Findings – prepared by Haritz Haykal, Muhammad Al-Hakimi, Ahmad Muzhaffar
+## 6. Findings – prepared by Haritz Haykal, Muhammad Al-Hakimi, AHmad Muzhaffar
+
+Upon completing all three tasks, users were asked a series of open-ended interview questions to share their thoughts and experiences using the prototype. These questions aimed to discover any difficulties they faced, what they liked, and suggestions for improvement. Based on their responses and our observations during the test, we identified a few findings that highlight small issues and areas where the app can be improved. The following are the findings along with simple recommendations for each.
 
 ### 1. Minor Lag During Use (User 1)
-- **Finding**: “Sometimes it gets lags”  
-- **Implication**: May affect smoothness  
-- **Recommendation**: Optimize transitions and loading
+
+**Finding:** The user mentioned that the app “sometimes gets lags,” although it wasn’t a big issue.  
+**Implication:** Minor lag may affect the smoothness of interaction and cause small frustration during use.  
+**Recommendation:** Improve performance by optimizing transitions and screen loading speed.
 
 ### 2. Limited Engagement with SOS and Meditation Tools (User 2)
-- **Finding**: Shallow use due to lack of context  
-- **Recommendation**: Add micro-guidance or onboarding pop-ups
+
+**Finding:** While users acknowledged the usefulness of the SOS and Meditation tools, their interaction with those features was brief or shallow.  
+**Implication:** The lack of context or prompting may prevent users from fully exploring these essential support tools.  
+**Recommendation:** Add micro-guidance (e.g., “Tap to connect with a counselor”) and friendly pop-ups explaining each tool's purpose during the first visit.
 
 ### 3. Confusion in Podcast Playback (User 3)
-- **Finding**: Unclear if audio was playing  
-- **Recommendation**: Add progress bar, “Now Playing” label
 
-### Summary
-
-The usability testing of PulsePath showed consistent positive feedback across all participants. They praised its intuitive design, complete features, and alignment with daily routines. Minor issues like loading lag and discoverability of features are easily addressable. Overall, the app meets core user expectations and presents a well-rounded, engaging wellness companion.
+**Finding:** The user asked, “Can I hear it?” when trying the podcast feature, showing uncertainty about whether the audio was playing.  
+**Implication:** Lack of visual or sound feedback may lead users to think the feature is not working.  
+**Recommendation:** Add a progress bar, and a clear label like “Now Playing.”
 
 ---
 
-## Table of Contents
+## Summary
+The usability testing of PulsePath showed consistent positive feedback across all three participants, highlighting the application's intuitive navigation, extensive feature set, and strong alignment with daily routines. Participants praised the app’s ease of use, acknowledged the navigation as "direct," and "effortless," with only minor technical lag issues noticed by one user, and resolved without affecting the overall usability. All users expressed high interest to integrate PulsePath into their daily lives, citing its relevance for tracking health metrics (e.g., sleep, calories), accessing mental health support (meditation guides, SOS chat/call with professionals), and engage with the educational contents (videos, quizzes, etc.).
 
-1. [Introduction](#1-introduction)  
-2. [Screenshots of Prototype](#2-screenshots-of-prototype)  
-3. [Briefing Notes](#3-briefing-notes--prepared-by-haritz-haykal)  
-4. [User Testing](#4-user-testing)  
-5. [Observations](#5-observations--prepared-by-haritz-haykal-muhammad-al-hakimi-ahmad-muzhaffar)  
-6. [Findings](#6-findings--prepared-by-haritz-haykal-muhammad-al-hakimi-ahmad-muzhaffar)  
+The prototype appeared to be functionally complete, with no significant drawbacks identified. Users specifically praised its extensive tracking features, the diversity of health education types (such as summary of videos for short attention spans), and the quick action of the SOS option. User engagement is enhanced even more by the aesthetic appeal, such as calming colors and a clean interface. Furthermore, all participants commended the system as "perfect" or "covers everything," emphasising its utility as a wellness companion. While suggesting minor improvements for upcoming versions, such as lag optimisation and expanding SOS professional networks, these observations support the core foundation of PulsePath.
+  

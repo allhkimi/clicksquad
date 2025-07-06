@@ -44,16 +44,9 @@ Testing for User 3 was handled by Ahmad Muzhaffar.
 
 ## 2. Screenshots of Prototype
 
-- Register Page  
-- Home Page  
-- Profile Page  
-- Tracker Menu  
-- Meditate Menu  
-- SOS Menu  
-- Daily Checkup Menu  
-- Health Education Menu  
-- Article Submenu  
-  *can also be accessed from ‘Read more about…’ button at the Home Page*
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/p1.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/p2.jpg">
+<img align="center" width="70%" src="https://raw.githubusercontent.com/haritzhaykal/clicksquad/main/pics/p3.jpg">
 
 ---
 
